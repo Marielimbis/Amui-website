@@ -1,12 +1,11 @@
 import React, { useMemo, useState } from "react";
 import { motion } from "framer-motion";
-import { Card, CardContent } from "./components/ui/card";
+
 import { Button } from "./components/ui/button";
 import { Card, CardContent } from "./components/ui/card";
 import { Input } from "./components/ui/input";
 import { Textarea } from "./components/ui/textarea";
 import { Separator } from "./components/ui/separator";
-
 import {
   Globe,
   Check,
