@@ -7,6 +7,17 @@ import { Input } from "./components/ui/input";
 import { Textarea } from "./components/ui/textarea";
 import { Separator } from "./components/ui/separator";
 
+import {
+  Globe,
+  Check,
+  Sparkles,
+  Leaf,
+  Clock,
+  MapPin,
+  Phone,
+  Mail,
+  ArrowRight,
+} from "lucide-react";
 
 // Single-file, deployable landing page for "Amui" catering (Switzerland).
 // - Minimal, modern aesthetic
